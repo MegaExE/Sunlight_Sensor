@@ -17,7 +17,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 ### Week 2 September 18, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+
 
 ### Week 1 September 11,2017
 
