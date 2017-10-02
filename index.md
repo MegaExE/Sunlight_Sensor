@@ -21,6 +21,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 ### Week 1 September 11,2017
 
-I Created my [repository] 
+I Created my [repository] (https://github.com/RaphaelNajera/Sunlight_Sensor)
+
 
 Welcome!
