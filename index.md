@@ -16,6 +16,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 ### Week 4 October 2, 2017
 
 Submitted my Budget Plan
+
 Started to buy the parts required for my project
 
 Tried to test out the Raspberry pi wasn't able to connect.
