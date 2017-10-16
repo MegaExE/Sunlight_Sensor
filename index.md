@@ -29,7 +29,7 @@ Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector 
 ### Week 3 September 25, 2017
 
 Submitted my Schedule Plan
-Created my [Budget Plan]
+Created my [Budget Plan]()
 Ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 1
 
 ### Week 2 September 18, 2017
