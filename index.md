@@ -29,14 +29,18 @@ Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector 
 ### Week 3 September 25, 2017
 
 Submitted my [Schedule Plan]()
+
 Created my Budget Plan.
+
 Ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 1
 
 ### Week 2 September 18, 2017
 
 Submitted my Proposal
+
 Created my [schedule plan]()
 ![Image of Schedule]()
+
 Ordered Raspberry Pi 3 on September 20,2017. 
 Recived the Raspberry Pi 3 on September 21, 2017.
 
@@ -46,6 +50,8 @@ Sent an email attched with the gerber files to vlad/kelly to request for the PCB
 ### Week 1 September 11,2017
 
 I created my [repository](https://github.com/RaphaelNajera/Sunlight_Sensor) and choose the sensor that I will be building with for my IoT Hardware project.
+
 The sensor I choose is Sunlight sensor. I started to research the sunlight sensor and build guild.
+
 I created my [Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/ProposalContentRaphaelNajeraRev02.pdf)
 
