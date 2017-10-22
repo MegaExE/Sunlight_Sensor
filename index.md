@@ -30,7 +30,7 @@ During the weekend I started to buy the parts needed for my project.
 During class I also tried to test out the Raspberry pi lab testing the light blinking but I wasn't able to connect the Raspberry pi to the computer. I followed the step but got into a problem when connecting to the raspberry pi.
 I use Raspberry pi #153 from the part crib.
 
-After the class I recived the PCB board and parts kit for the Student Sense Hat from Kelly at the prototype lab. The next step is I have to solder the component to the PCB board.
+After class I received the PCB board and parts kit for the Student Sense Hat from Kelly at the prototype lab. The next step is I have to solder the component to the PCB board.
 
 Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 12
 
@@ -39,7 +39,7 @@ Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector 
 
 During class I submitted my [Schedule Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Project%20Schedule%20-Raphael%20Carlo%20Najera.pdf)
 
-The next step is to create my Budget Plan which will help me decide how much I would spend on my project. I already started to order my Raspberry Pi 3.
+The next step is to create my Budget Plan which will help me decide how much I would spend on my project. I already ordered my Raspberry Pi 3.
 
 The next part is to ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. I orderd these parts on October 1.
 
@@ -51,7 +51,7 @@ I submitted my [Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/
 The next step is to start on creating my schedule plan which is due on Week 3.
 
 
-I Ordered the Raspberry Pi 3 on amazon on September 20,2017 and recived the Raspberry Pi 3 on September 21, 2017
+I ordered the Raspberry Pi 3 on amazon on September 20,2017 and recived the Raspberry Pi 3 on September 21, 2017
 
 
 
