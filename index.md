@@ -17,7 +17,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 Submitted my Budget Plan
 ![Image of BudgetPlan]( =250x)
-<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png" width="500" height="500">
 
 Started to buy the parts required for my project
 
