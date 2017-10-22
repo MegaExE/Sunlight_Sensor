@@ -9,51 +9,60 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 
  
+### Week 6 October 23, 2017
+This week I set up my raspberry pi 3.
 
+I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
 
 ### Week 5 October 16, 2017
- 
+I have acquired the components need for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
+
+On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complate the student sense hat. The next step is to test the PCB board to see if it will power up.
+
 ### Week 4 October 2, 2017
 
-Submitted my Budget Plan
+I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
 
 ![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
 
-Started to buy the parts required for my project
+During the weekend I started to buy the parts needed for my project.
 
-Tried to test out the Raspberry pi wasn't able to connect.
-I use Raspberry pi #153 from the part Crib.
-Recived the PCB board and part kit from Kelly at the prototype lab.
+During class I also tried to test out the Raspberry pi lab testing the light blinking but I wasn't able to connect the Raspberry pi to the computer. I followed the step but got into a problem when connecting to the raspberry pi.
+I use Raspberry pi #153 from the part crib.
+
+After the class I recived the PCB board and parts kit for the Student Sense Hat from Kelly at the prototype lab. The next step is I have to solder the component to the PCB board.
 
 Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 12
 
 
 ### Week 3 September 25, 2017
 
-Submitted my [Schedule Plan]()
+During class I submitted my [Schedule Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Project%20Schedule%20-Raphael%20Carlo%20Najera.pdf)
 
-Created my Budget Plan.
+The next step is to create my Budget Plan which will help me decide how much I would spend on my project. I already started to order my Raspberry Pi 3.
 
-Ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 1
+The next part is to ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. I orderd these parts on October 1.
+
 
 ### Week 2 September 18, 2017
 
-Submitted my Proposal
+I submitted my [Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/ProposalContentRaphaelNajeraRev02.pdf)
 
-Created my [schedule plan]()
-![Image of Schedule]()
+The next step is to start on creating my schedule plan which is due on Week 3.
 
-Ordered Raspberry Pi 3 on September 20,2017. 
-Recived the Raspberry Pi 3 on September 21, 2017.
 
-Used the program called fritzing to add my name to the PCB board.
-Sent an email attched with the gerber files to vlad/kelly to request for the PCB board
+I Ordered the Raspberry Pi 3 on amazon on September 20,2017 and recived the Raspberry Pi 3 on September 21, 2017
+
+
+
+I Used the program called fritzing to add my name to the PCB board. I then sent an email attched with the gerber files to vlad/kelly to request for the PCB board.
 
 ### Week 1 September 11,2017
 
 I created my [repository](https://github.com/RaphaelNajera/Sunlight_Sensor) and choose the sensor that I will be building with for my IoT Hardware project.
 
-The sensor I choose is Sunlight sensor. I started to research the sunlight sensor and build guild.
+The sensor I choose is Sunlight sensor. 
 
-I created my [Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/ProposalContentRaphaelNajeraRev02.pdf)
+I started to research about the sunlight sensor and build guild on what to build with the sunlight sensor with will help me on creating my proposal that is due next week.
+
 
