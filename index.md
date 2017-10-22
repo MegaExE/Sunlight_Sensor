@@ -35,9 +35,11 @@ After class I received the PCB board and parts kit for the Student Sense Hat fro
 Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 12
 
 Grove I2C Sunlight Sensor / UV / IR 3 Receipt
+
 ![Image of Grove I2C Sunlight Sensor / UV / IR 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20Sensor%20order%20summary.png)
 
 Grove Connector Interface for the Raspberry Pi Receipt
+
 ![Image of Pi2Grover - Grove Connector Interface for the Raspberry Pi Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Pi2Grover%20-%20Grove%20Connector%20Interface%20for%20the%20Raspberry%20Pi%20order%20summary.png)
 
 ### Week 3 September 25, 2017
