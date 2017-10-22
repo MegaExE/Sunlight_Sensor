@@ -16,7 +16,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 ### Week 4 October 2, 2017
 
 Submitted my Budget Plan
-![Image of BudgetPlan]( =250x)
+![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
 <br>
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png" width="800" height="500">
 
