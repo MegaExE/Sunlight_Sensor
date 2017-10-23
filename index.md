@@ -20,8 +20,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 ### Week 4 October 2, 2017
 * I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
 ![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
-
-During the weekend I started to buy the parts needed for my project.
+* During the weekend I started to buy the parts needed for my project.
 
 During class I also tried to test out the Raspberry pi lab testing the light blinking but I wasn't able to connect the Raspberry pi to the computer. I followed the step but got into a problem when connecting to the raspberry pi.
 I use Raspberry pi #153 from the part crib.
