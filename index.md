@@ -37,7 +37,9 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 ### Week 3 September 25, 2017
 * During class I submitted my [Schedule Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Project%20Schedule%20-Raphael%20Carlo%20Najera.pdf)
+
 ![Image of Project Plan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-%20Project%20Plan.PNG)
+
 * The next step is to create my Budget Plan which will help me decide how much I would spend on my project. I already ordered my Raspberry Pi 3.
 * The next part is to ordered Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. I orderd these parts on October 1.
 
