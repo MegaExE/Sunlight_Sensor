@@ -27,6 +27,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * Recived the Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi on October 12.
 * Grove I2C Sunlight Sensor / UV / IR 3 Receipt
 ![Image of Grove I2C Sunlight Sensor / UV / IR 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20Sensor%20order%20summary.png)
+
 * Grove Connector Interface for the Raspberry Pi Receipt
 ![Image of Pi2Grover - Grove Connector Interface for the Raspberry Pi Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Pi2Grover%20-%20Grove%20Connector%20Interface%20for%20the%20Raspberry%20Pi%20order%20summary.png)
 
@@ -42,6 +43,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * I ordered the Raspberry Pi 3 on amazon on September 20,2017 and recived the Raspberry Pi 3 on September 21, 2017.
 * Raspberry Pi 3 Receipt
 ![Image of Raspberry Pi 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raspberry%20Pi%203%20order%20summary.png)
+
 * I Used the program called fritzing to add my name to the PCB board. I then sent an email attched with the gerber files to vlad/kelly to request for the PCB board.
 
 ### Week 1 September 11,2017
