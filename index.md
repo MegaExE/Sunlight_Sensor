@@ -14,15 +14,12 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
 
 ### Week 5 October 16, 2017
-I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
-
-On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
+* I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
+* On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
 
 ### Week 4 October 2, 2017
-
-I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
-
-![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
+* I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
+* ![Image of BudgetPlan](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.png)
 
 During the weekend I started to buy the parts needed for my project.
 
