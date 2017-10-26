@@ -35,7 +35,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 ![Image of Grove I2C Sunlight Sensor / UV / IR 3 Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20Sensor%20order%20summary.png)
 
-* Grove Connector Interface for the Raspberry Pi Receipt
+* Grove Connector Interface for the Raspberry Pi Receipt 
 
 ![Image of Pi2Grover - Grove Connector Interface for the Raspberry Pi Receipt](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Pi2Grover%20-%20Grove%20Connector%20Interface%20for%20the%20Raspberry%20Pi%20order%20summary.png)
 
