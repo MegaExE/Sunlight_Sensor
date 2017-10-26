@@ -11,6 +11,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
  
 ### Week 6 October 23, 2017
 * This week I set up my raspberry pi 3.
+* Watched video on setting up the raspberry pi and connecting to VNC
 * I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
 
 ### Week 5 October 16, 2017
