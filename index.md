@@ -15,7 +15,8 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * This week I enable the I2C Bus in my raspberry pi 3 to allow the sensor connected to your Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
 * I recived the module that I was missing to complete the Student Sense Hat from the prototype lab.
 * I started to create my 30 second script video.
- 
+
+
 ### Week 6 October 23, 2017
 * This week I set up my raspberry pi 3.
 * Watched video on setting up the raspberry pi and connecting to VNC
