@@ -8,7 +8,7 @@ title: Raphael Carlo Najera CENG 317 Blog
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 8 November 6, 2017
-*
+
 
 
 ### Week 7 October 30, 2017
