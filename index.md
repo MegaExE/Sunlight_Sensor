@@ -9,6 +9,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 8 November 6, 2017
 
+
 ### Week 7 October 30, 2017
 * This week I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
 * I recived the module that I was missing to complete the Student Sense Hat from the prototype lab.
@@ -21,7 +22,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 ### Week 5 October 16, 2017
 * I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
-* Sunlight Sensor and Grove Connector Interface
+* Grove Connector Interface and Sunlight Sensor
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20and%20Grove%20Connector%20Interface.jpg" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
 
