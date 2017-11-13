@@ -11,7 +11,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 
 ### Week 8 November 6, 2017
-* Connecting the sunlight sensor to my raspberry pi 3 
+* Connected the sunlight sensor to my raspberry pi 3 
 
 ### Week 7 October 30, 2017
 * This week I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
