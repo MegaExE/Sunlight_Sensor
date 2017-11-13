@@ -11,7 +11,6 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 
 ### Week 8 November 6, 2017
-* Working on the 30 second video
 * Connecting the sunlight sensor to my raspberry pi 3 
 
 ### Week 7 October 30, 2017
