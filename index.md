@@ -8,6 +8,13 @@ title: Raphael Carlo Najera CENG 317 Blog
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 9 November 13, 2017
+* Filmed the part assembly for my build video
+* Setting up the code for the sunlight sensor
+ 
+* Tested the code. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
+* Output of testing the Sunlight Sensor:
+
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Testing%20the%20Sunlight%20Sensor.png" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
 
 
 ### Week 8 November 6, 2017
