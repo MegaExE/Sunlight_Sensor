@@ -9,7 +9,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 6 (October 16, 2017 - November 27, 2017)
 During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
-* I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
+* Started reading the build guild on where to start on connection my sensor to my raspberry pi.
 
 * I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
 * I recived the module that I was missing to complete the Student Sense Hat from the prototype lab on the week of October 30, 2017
@@ -22,7 +22,7 @@ During the Past 5 Weeks the school was on strike. This is what I worked on durin
 
 * Adding the modules to my Student Sense Hat
 
-### Week 5 October 16, 2017
+On Week 5 October 16, 2017
 * I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
 * Grove Connector Interface and Sunlight Sensor
 
