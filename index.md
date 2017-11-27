@@ -7,37 +7,29 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
-### Week 9 November 13, 2017
-* Filmed the part assembly for my build video
-* Setting up the code for the sunlight sensor
- 
-* Tested the code. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
-* Output of testing the Sunlight Sensor:
-
-<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Testing%20the%20Sunlight%20Sensor.png" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
-
-
-### Week 8 November 6, 2017
-* Connected the sunlight sensor to my raspberry pi 3 
-
-### Week 7 October 30, 2017
-* This week I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
-* I recived the module that I was missing to complete the Student Sense Hat from the prototype lab.
-* I started to create my 30 second script video.
-
-### Week 6 October 23, 2017
-* This week I set up my raspberry pi 3.
-* Watched video on setting up the raspberry pi and connecting to VNC
-* I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
-
-### Week 5 October 16, 2017
+### Week 6 (October 16, 2017 - November 27, 2017)
+During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
 * I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
 * Grove Connector Interface and Sunlight Sensor
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20and%20Grove%20Connector%20Interface.jpg" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
 
-* Watched videos on how to solder.
+* Watched videos on how to solder, setting up the raspberry pi and connecting to VNC
 * On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
+
+* I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
+
+* I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
+* I recived the module that I was missing to complete the Student Sense Hat from the prototype lab on the week of October 30, 2017
+
+* I Connected the sunlight sensor to my raspberry pi 3  and Filmed the part assembly for my build video
+* I set up the code for the sunlight sensor to test. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
+* Output of testing the Sunlight Sensor:
+
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Testing%20the%20Sunlight%20Sensor.png" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
+
+* Adding the modules to my Student Sense Hat
+
 
 ### Week 4 October 2, 2017
 * I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
