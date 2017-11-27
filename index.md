@@ -9,14 +9,6 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 6 (October 16, 2017 - November 27, 2017)
 During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
-* I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
-* Grove Connector Interface and Sunlight Sensor
-
-<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20and%20Grove%20Connector%20Interface.jpg" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
-
-* Watched videos on how to solder, setting up the raspberry pi and connecting to VNC
-* On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
-
 * I also start reading the build guild on where to start on connection my sensor to my raspberry pi.
 
 * I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also got blinked an LED to work on my raspberry pi 3.
@@ -30,6 +22,14 @@ During the Past 5 Weeks the school was on strike. This is what I worked on durin
 
 * Adding the modules to my Student Sense Hat
 
+### Week 5 October 16, 2017
+* I have acquired the components needed for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Pi2Grover - Grove Connector Interface. I am ready to start building my project.
+* Grove Connector Interface and Sunlight Sensor
+
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20and%20Grove%20Connector%20Interface.jpg" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
+
+* Watched videos on how to solder.
+* On Wednesday October 18, I went to the prototype lab to solder my PCB board for the student sense hat. As of right now I have completed soldering for the PCB board. I'm now missing the module need to complete the student sense hat. The next step is to test the PCB board to see if it will power up.
 
 ### Week 4 October 2, 2017
 * I Submitted my [Budget Plan](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Raphael%20-Budget%20for%20Sunlight%20Sensor.xlsx)
