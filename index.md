@@ -8,13 +8,15 @@ title: Raphael Carlo Najera CENG 317 Blog
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 7 December 4, 2017
-* Today in class I tested my StudentSenseHat. I first test the blinked LED by running traffic2B.c.
+* Today in class I tested my StudentSenseHat. I first test the blinked LED by running traffic2B.c. on the StudentSenseHat the LED blink from Red to Green.
 * StudentSenseHat
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/StudentSenseHat.jpg" alt="Image of StudentSenseHat" width="350" height="250">
 
 * Blinking LED
 
 
+* Testing ghmain. It display the reading from the senesor 
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/testing%20ghmain.png" alt="Testing ghmain" width="350" height="250">
 
 
 
