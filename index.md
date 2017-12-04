@@ -15,7 +15,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * Blinking LED
 
 
-* Testing ghmain. It display the reading from the senesor 
+* Testing ghmain. It display the reading from the sensor 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/testing%20ghmain.png" alt="Testing ghmain" width="350" height="250">
 
 
