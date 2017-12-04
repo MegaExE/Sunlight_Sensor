@@ -7,6 +7,17 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
+### Week 7 December 4, 2017
+* Today in class I tested my StudentSenseHat. I first test the blinked LED by running traffic2B.c.
+* StudentSenseHat
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/StudentSenseHat.jpg" alt="Image of StudentSenseHat" width="350" height="250">
+
+* Blinking LED
+
+
+
+
+
 ### Week 6 (October 16, 2017 - November 27, 2017)
 During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
 * Started reading the build guild on where to start on connection my sensor to my raspberry pi.
