@@ -13,7 +13,9 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/StudentSenseHat.jpg" alt="Image of StudentSenseHat" width="350" height="250">
 
+
 * Blinking LED
+
 
 
 * Testing ghmain. It display the reading from the sensor 
