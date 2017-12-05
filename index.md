@@ -13,16 +13,26 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/StudentSenseHat.jpg" alt="Image of StudentSenseHat" width="350" height="250">
 
+* Checking the sensor is connected by typing sudo i2cdetect -y 1
+
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/i2cdetect%20-y%201.png" alt="Image of i2cdetect -y 1" width="350" height="250">
 
 * Blinking LED
+* Red light
 
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/redlight.jpg" alt="Image of Blinking LED Red" width="350" height="250">
 
+* Green light
+
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/greenlight.jpg" alt="Image of Blinking LED Green" width="350" height="250">
 
 * Testing ghmain. It display the reading from the sensor 
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/testing%20ghmain.png" alt="Testing ghmain" width="350" height="250">
 
+* Testing BME280.
 
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/testing%20BME280.png" alt="Testing BME280" width="350" height="250">
 
 ### Week 6 (October 16, 2017 - November 27, 2017)
 During the Past 5 Weeks the school was on strike. This is what I worked on during the strike:
