@@ -11,7 +11,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 ### Week 8 December 11, 2017
 * [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
 
-<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350 eight="350
+<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350 weight="350
 
 
 ### Week 7 December 4, 2017
