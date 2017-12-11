@@ -16,16 +16,19 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 * 30 second build script
 
 In my 30 second video it will include an opening title screen, showing the parts, the parts connected to the raspberry pi, testing and showing the output. 
+
 Opening:
--	Displaying my name and the sensor I’m using to build for my Hardware project.
+ * Displaying my name and the sensor I’m using to build for my Hardware project.
 Showing the parts:
--	“The parts I’m using to build are raspberry pi, sunlight sensor and Connector Interface.”
--	Showing the pictures of the parts required for my Hardware project.
+ *	“The parts I’m using to build are raspberry pi, sunlight sensor and Connector Interface.”
+ * Showing the pictures of the parts required for my Hardware project.
+
 Part assembly:
--	Showing how to connection the sunlight sensor with the connector interface to the raspberry pi.
+*	Showing how to connection the sunlight sensor with the connector interface to the raspberry pi.
+
 Powering up:
--	Showing the raspberry pi powered up and the code running. 
--	“The code will display Vis (visible light), IR (infrared light) and UV Index (UV-Light) that it read from the sunlight sensor”
+*	Showing the raspberry pi powered up and the code running. 
+*	“The code will display Vis (visible light), IR (infrared light) and UV Index (UV-Light) that it read from the sunlight sensor”
 
 
 ### Week 7 December 4, 2017
