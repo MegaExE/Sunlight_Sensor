@@ -14,6 +14,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 <img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350" height="350">
 
 * 30 second build script
+
 In my 30 second video it will include an opening title screen, showing the parts, the parts connected to the raspberry pi, testing and showing the output. 
 Opening:
 -	Displaying my name and the sensor I’m using to build for my Hardware project.
