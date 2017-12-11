@@ -19,6 +19,7 @@ In my 30 second video it will include an opening title screen, showing the parts
 
 Opening:
  * Displaying my name and the sensor I’m using to build for my Hardware project.
+
 Showing the parts:
  *	“The parts I’m using to build are raspberry pi, sunlight sensor and Connector Interface.”
  * Showing the pictures of the parts required for my Hardware project.
