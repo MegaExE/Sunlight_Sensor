@@ -7,6 +7,14 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
+
+### Week 8 December 11, 2017
+* [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
+
+<img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg
+" alt="Image of Placard" width="350" height="250">
+
+
 ### Week 7 December 4, 2017
 * Today in class I tested my StudentSenseHat before I test my studentsensehat I had to cut the trace near IC1. I tested the blinked LED by running traffic2B.c. on the StudentSenseHat the LED blink from Red to Green.
 * StudentSenseHat
