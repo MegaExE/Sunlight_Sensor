@@ -13,6 +13,19 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 
 <img src="https://raw.githubusercontent.com/adriancaprini/BluetoothProjectProposal-/master/Placard_-_JohnsonRaphaelAdrian.jpg" alt="Image of Placard" width="350" height="350">
 
+* 30 second build script
+In my 30 second video it will include an opening title screen, showing the parts, the parts connected to the raspberry pi, testing and showing the output. 
+Opening:
+-	Displaying my name and the sensor I’m using to build for my Hardware project.
+Showing the parts:
+-	“The parts I’m using to build are raspberry pi, sunlight sensor and Connector Interface.”
+-	Showing the pictures of the parts required for my Hardware project.
+Part assembly:
+-	Showing how to connection the sunlight sensor with the connector interface to the raspberry pi.
+Powering up:
+-	Showing the raspberry pi powered up and the code running. 
+-	“The code will display Vis (visible light), IR (infrared light) and UV Index (UV-Light) that it read from the sunlight sensor”
+
 
 ### Week 7 December 4, 2017
 * Today in class I tested my StudentSenseHat before I test my studentsensehat I had to cut the trace near IC1. I tested the blinked LED by running traffic2B.c. on the StudentSenseHat the LED blink from Red to Green.
