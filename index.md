@@ -29,7 +29,7 @@ Part assembly:
 
 Powering up:
 *	Showing the raspberry pi powered up and the code running. 
-*	“The code will display Vis (visible light), IR (infrared light) and UV Index (UV-Light) that it read from the sunlight sensor”
+*	“The functionality I plan to demonstrate is the sunlight sensor will read the data of Vis (visible light), IR (infrared light) and UV Index (UV-Light) and the code will display the data on the raspberry pi”
 
 
 ### Week 7 December 4, 2017
