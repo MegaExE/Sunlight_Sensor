@@ -64,7 +64,7 @@ During the Past 5 Weeks the school was on strike. This is what I worked on durin
 * Started reading the build guide on how to connect my sensor to my raspberry pi.
 
 * I enable the I2C Bus in my raspberry pi 3 to allow the sensor to connect to the Raspberry Pi. I also blinked the LED on my raspberry pi 3.
-* I recived the module that I was missing to complete the Student Sense Hat from the prototype lab on the week of October 30, 2017
+* I received the module that I was missing to complete the Student Sense Hat from the prototype lab on the week of October 30, 2017
 
 * I Connected the sunlight sensor to my raspberry pi 3  and Filmed the part assembly for my build video
 * I set up the code for the sunlight sensor to test. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
