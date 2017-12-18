@@ -8,6 +8,12 @@ title: Raphael Carlo Najera CENG 317 Blog
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 
+<video width="320" height="240" controls="">
+  <source src="documentation/SunlightBuildvideo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>      
+
+
 ### Week 8 December 11, 2017
 * [Placard](https://github.com/adriancaprini/BluetoothProjectProposal-/blob/master/Placard_-_JohnsonRaphaelAdrian.pub)
 
