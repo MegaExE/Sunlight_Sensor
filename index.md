@@ -11,7 +11,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
 ### Week 10 January 8, 2018
 * Progress Report: Sunlight Sensor
 
-  The recent project activities I did for my hardware project are, I first choose my sensor that I will be working on which was the sunlight sensor. So far, I wrote the proposal, project schedule and budget. I have acquired the main hardware components need for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Connector Interface. In my project schedule this would completed the ID 6 Buying my components/parts. I also research on setting up my raspberry pie and connected my sunlight sensor to the connector interface on the raspberry pi. After that, I tested the code and I was able to get the data from the sunlight sensor of Visible light (Vis), Infrared light (IR) and UV – Light (UV Index). I also recorded the 30 second build video of unboxing the parts, connecting the part and powering up. On my project schedule I have completed id 9 to 13
+  The recent project activities I did for my hardware project are, I first choose my sensor that I will be working on which was the sunlight sensor. So far, I wrote the proposal, project schedule and budget. I have acquired the main hardware components need for my project. The hardware components that I have acquired is raspberry pi, sunlight sensor and Connector Interface. In my project schedule this would completed the ID 6 Buying my components/parts. I also research on setting up my raspberry pie and connected my sunlight sensor to the connector interface on the raspberry pi. After that, I tested the code and I was able to get the data from the sunlight sensor of Visible light (Vis), Infrared light (IR) and UV – Light (UV Index). I also recorded the 30 second build video of unboxing the parts, connecting the part and powering up. On my project schedule I have completed id 9 to 13.
 
   The current progress in meeting the objectives of the project is going well. I have received the required components to build my project and then tested the sensor. On Jan 8, I demonstration my sensor to the professor.I was able to retrieve the data from the sunlight sensor.  The next objective is to write the build instruction and PowerPoint for the presentation.  
   
@@ -20,6 +20,7 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
   As of right now the projects financial update is currently still in budget. I believe there no reasons that I will exceed my budget as all my hardware and component needed has been acquired. 
 
 Link to GitHub: https://github.com/RaphaelNajera/Sunlight_Sensor
+Link to Code: https://github.com/RaphaelNajera/Sunlight_Sensor/tree/master/firmware
 
 
 
