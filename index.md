@@ -19,8 +19,8 @@ Raphael Najera CENG 317 Sunlight Sensor Blog.
   
   As of right now the projects financial update is currently still in budget. I believe there no reasons that I will exceed my budget as all my hardware and component needed has been acquired. 
 
-Link to GitHub: https://github.com/RaphaelNajera/Sunlight_Sensor
-Link to Code: https://github.com/RaphaelNajera/Sunlight_Sensor/tree/master/firmware
+* Link to GitHub: https://github.com/RaphaelNajera/Sunlight_Sensor
+* Link to Code: https://github.com/RaphaelNajera/Sunlight_Sensor/tree/master/firmware
 
 
 
