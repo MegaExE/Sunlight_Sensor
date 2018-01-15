@@ -8,6 +8,11 @@ title: Raphael Carlo Najera CENG 317 Blog
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 
+
+### Week 11 January 15, 2018
+* PowerPoint Presentation(https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/Sunlight%20Sensor%20-%20Presentation%20-%20Raphael%20Najera.pptx)
+
+
 ### Week 10 January 8, 2018
 * Progress Report: Sunlight Sensor
 
