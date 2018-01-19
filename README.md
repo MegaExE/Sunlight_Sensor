@@ -75,6 +75,63 @@ sudo apt-get install -y python-smbus
 sudo apt-get install -y i2c-tools
 ```
 
+### Unit Testing
+
+To check if the raspberry pi is detecting the sunlight sensor:
+Open the terminal and type the command 
+```
+sudo i2cdetect -y 1.
+```
+
+If you see this, it means that the raspberry pi is detecting the sunlight sensor and you connected the sensor to the raspberry pi correctly.
+
+![sunlight i2c detect](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20i2c%20detect.png)
+
+0x60 is the Sunlight Sensor.
+
+The next step is to install the APscheduler. The Advanced Python Scheduler is a task scheduler that lets you schedule functions to be executed at times of your choosing.
+
+On the terminal type the follow command to install APscheduler.
+```
+Sudo pip install setuptools –upgrade
+Sudo pip install apscheduler
+```
+
+Next is to install the software and download the code to run the sunlight sensor
+You can download the files required to run the sunlight sensor [here](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FRaphaelNajera%2FSunlight_Sensor%2Ftree%2Fmaster%2Ffirmware)
+
+Unzip the file and save it on the root directory on your raspberry pi. 
+On the terminal type the following command:
+```
+cd firmware/Adafruit_Python_PureIO
+sudo python setup.py install
+```
+
+To run the code, enter the follow command:
+```
+cd firmware
+python SunIOT.py
+```
+The program will execute.
+
+
+
+### Production Testing:
+Once the program successfully executes the output will display the Vis (visible light), IR (infrared light) and UV Index (UV-Light) from the sunlight sensor. 
+
+Pictures of the sunlight sensor project and the code running:
+
+![sunlight powering up](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/sunlight%20sensor%20powered%20up.jpg)
+
+
+![sunlight sensor output](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20sensor%20output.png)
+
+### Reproducible?
+By following this build instruction, I believe you will be able to reproduce the sunlight sensor project. I have provided in my GitHub, budget, instruction on how to build and setup the code.
+
+
+
+
 
 
 
