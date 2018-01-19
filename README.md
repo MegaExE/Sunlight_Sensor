@@ -14,7 +14,7 @@
 
 ### Introduction
 
-For my Hardware Project I decided to build and work on is sunlight sensor which will measures sunlight and break the sunlight down into three components (Ultraviolet light, visible light (in Lumens) and infrared light (in Lumens). This will allow to monitor the sunlight intensity, IR intensity and UV intensity.
+For my Hardware Project I decided to build with the sunlight sensor. The sunlight sensor will measures sunlight and break the sunlight down into three components (Ultraviolet light, visible light (in Lumens) and infrared light (in Lumens). This will allow to monitor the sunlight intensity, IR intensity and UV intensity.
 
 
 The sunlight sensor uses SI1145 which will measure the total visible light (in Lumens), infrared light (in Lumens) and UV light (UV index). This can be useful because with this sensor you can detect how much visible light and infrared light is emitted by the sunlight. With the value from uv light you can use the data to find out the UV index and know how much UV light is emitting from the sunlight.
