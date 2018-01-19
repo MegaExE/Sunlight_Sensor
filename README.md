@@ -3,12 +3,12 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [System Diagram](#System Diagram)
-3. [Bill of Materials/Budget](#Bill of Materials/Budget)
-4. [Time Commitment](#Time Commitment)
-5. [Power up](#Power up)
-6. [Unit Testing](#Unit Testing)
-7. [Production Testing](#Production Testing)
+2. [System Diagram](#System-Diagram)
+3. [Bill of Materials/Budget](#Bill-of-Materials/Budget)
+4. [Time Commitment](#Time-Commitment)
+5. [Power up](#Power-up)
+6. [Unit Testing](#Unit-Testing)
+7. [Production Testing](#Production-Testing)
 8. [Reproducible?](#Reproducible?)
 
 
@@ -19,7 +19,7 @@ For my Hardware Project I decided to build with the sunlight sensor. The sunligh
 
 The sunlight sensor uses SI1145 which will measure the total visible light (in Lumens), infrared light (in Lumens) and UV light (UV index). This can be useful because with this sensor you can detect how much visible light and infrared light is emitted by the sunlight. With the value from uv light you can use the data to find out the UV index and know how much UV light is emitting from the sunlight.
 
-### System Diagram
+### SystemDiagram
 
 ![Image of System Diagram](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20project%20system%20diagram.png)
 
