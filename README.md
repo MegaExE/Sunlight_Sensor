@@ -10,7 +10,7 @@
 6. [Power up](#power-up)
 7. [Unit Testing](#unit-testing)
 8. [Production Testing](#production-testing)
-9. [Reproducible?](#reproducible?)
+9. [Reproducible?](#reproducible)
 
 
 ### Introduction
@@ -62,10 +62,10 @@ Below is the outcome after you connect the parts to the raspberry pi.
 ![Sunlight finish build](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20finish%20build.jpg)
 
 ### Soldering
-
+There was no soldering required with the sunlight sensor. The sunlight sensor is connected by using the Grove Cable to the connected interface on the raspberry pi.
 
 ### Power Up
-Before power up the Raspberry pi, check the micro SD card has the contents of NOOBS operation system installer which contains Raspbian. If not, you can download, unzip and copy the folder contents of [NOOBS](https://downloads.raspberrypi.org/NOOBS_latest) into the root directory of the micro SD card.
+Before power up the Raspberry pi, check the micro SD card to see if it has the contents of NOOBS operation system installer which contains Raspbian. If not, you can download, unzip and copy the folder contents of [NOOBS](https://downloads.raspberrypi.org/NOOBS_latest) into the root directory of the micro SD card.
 On the first boot you will be prompted to install the operating system and configure the wifi setting. Once the raspberry pi is done installing the operating system. The first thing is to enable I2C because by default it is not enable. I2C bus allows the devices like the sunlight sensor to be connected and detected on to the Raspberry Pi.
 To enable I2C: from the Start Menu -> Preferences -> Raspberry Pi configuration -> Interface set I2C to Enabled. 
 
@@ -98,9 +98,10 @@ Sudo pip install apscheduler
 ```
 
 Next is to install the software and download the code to run the sunlight sensor
-You can download the files required to run the sunlight sensor [here](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FRaphaelNajera%2FSunlight_Sensor%2Ftree%2Fmaster%2Ffirmware)
+You can download the files required to run the sunlight sensor [here](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FRaphaelNajera%2FSunlight_Sensor%2Ftree%2Fmaster%2Ffirmware).
 
 Unzip the file and save it on the root directory on your raspberry pi. 
+
 On the terminal type the following command:
 ```
 cd firmware/Adafruit_Python_PureIO
