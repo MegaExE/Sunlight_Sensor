@@ -3,13 +3,13 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [System Diagram](#System-Diagram)
-3. [Bill of Materials/Budget](#Bill-of-Materials/Budget)
-4. [Time Commitment](#Time-Commitment)
-5. [Power up](#Power-up)
-6. [Unit Testing](#Unit-Testing)
-7. [Production Testing](#Production-Testing)
-8. [Reproducible?](#Reproducible?)
+2. [System Diagram](#system-diagram)
+3. [Bill of Materials/Budget](#bill-of-materials/budget)
+4. [Time Commitment](#time-commitment)
+5. [Power up](#power-up)
+6. [Unit Testing](#unit-testing)
+7. [Production Testing](#production-testing)
+8. [Reproducible?](#reproducible?)
 
 
 ### Introduction
