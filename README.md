@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [System Diagram](#system-diagram)
-3. [Bill of Materials/Budget](#bill-of-materials/budget)
+3. [Bill of Materials/Budget](#bill-of-materialsbudget)
 4. [Time Commitment](#time-commitment)
 5. [Power up](#power-up)
 6. [Unit Testing](#unit-testing)
