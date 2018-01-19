@@ -25,7 +25,7 @@ The sunlight sensor uses SI1145 which will measure the total visible light (in L
 
 
 ### Bill of Materials/Budget
-The materials needed to build the sunlight sensor project is Raspberry Pi 3, Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. The parts can be bought from amazon or from switchdoc labs. I bought my parts from amazon.
+The materials needed to build the sunlight sensor project is Raspberry Pi 3, Grove I2C Sunlight Sensor / UV / IR and Pi2Grover - Grove Connector Interface for the Raspberry Pi. The parts can be bought from amazon or switchdoc labs. I bought my parts from amazon.
 
 1) Raspberry Pi 3 (CanaKit Starter Kit):
 
@@ -41,7 +41,31 @@ The materials needed to build the sunlight sensor project is Raspberry Pi 3, Gro
 * [Amazon](https://www.amazon.ca/Pi2Grover-Grove-Connector-Interface-Raspberry/dp/B01FPU4JTM/) CAD $31.17
 * [SwitchDoc Labs](https://shop.switchdoc.com/products/pi2grover-raspberry-pi-to-grove-connector-interface-board) US $19.95
 
-At the time when I bought the materials, the raspberry pie was $112.99, Sunlight sensor was $36.64 and Connector interface for the raspberry pi was $36.17, plus the shipping $15.41. The total cost for buying the materials was $201.21 
+At the time when I bought the materials, the raspberry pie was $112.99, Sunlight sensor was $36.64 and Connector interface for the raspberry pi was $36.17, plus the shipping $15.41. The total cost for buying the materials was $201.21.
+
+### Time Commitment
+This project can be completed in a couple of days if you followed the mechanical assembly and the diagram. From my experience it took me 1 to 2 weeks to complete the build. I first had to order the materials which will take around a week to arrive. Once you receive the materials, I set up the raspberry pi which took around 3 hours. Connection the parts to the raspberry pi took around 30-60 minutes. And then setting up the code on the raspberry pi and testing the code took around a 1 hour.
+
+Overall, I think the needed time to complete this build should be around 3 hours daily for 2-3 days.
+
+### Mechanical Assembly
+
+1) First, power of the Raspberry Pi
+2) Next, will be connecting the connector interface to the Raspberry pi 3. While holding the connector interface, align the pins on the Raspberry Pi 3 GPIO header and carefully push down the connector interface board on to the Raspberry Pi 3 board.
+3) Then, plug in a Grove Cable that comes with the Grove Sunlight sensor to the sunlight sensor and plug the other end of the cable to any of the I2C plugs on the connector interface. 
+4) Once everything is connected, you can power up the Raspberry Pi. If you see a blue LED on the connector interface it shows that the connector interface is connected.
+
+
+Below is the outcome after you connect the parts to the raspberry pi.
+
+![Sunlight finish build](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20finish%20build.jpg)
+
+### Soldering
+
+
+### Power Up
+
+
 
 
 
