@@ -19,7 +19,7 @@ For my Hardware Project I decided to build with the sunlight sensor. The sunligh
 
 The sunlight sensor uses SI1145 which will measure the total visible light (in Lumens), infrared light (in Lumens) and UV light (UV index). This can be useful because with this sensor you can detect how much visible light and infrared light is emitted by the sunlight. With the value from uv light you can use the data to find out the UV index and know how much UV light is emitting from the sunlight.
 
-### SystemDiagram
+### System Diagram
 
 ![Image of System Diagram](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20project%20system%20diagram.png)
 
