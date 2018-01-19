@@ -66,7 +66,7 @@ Below is the outcome after you connect the parts to the raspberry pi.
 
 ### Power Up
 Before power up the Raspberry pi, check the micro SD card has the contents of NOOBS operation system installer which contains Raspbian. If not, you can download, unzip and copy the folder contents of [NOOBS](https://downloads.raspberrypi.org/NOOBS_latest) into the root directory of the micro SD card.
-On the first boot you will be prompted to install the operating system and configure the wifi setting. Once the raspberry pi done installing the operating system. The first thing is to enable I2C because by default it is not enable. I2C bus allows the devices like the sunlight sensor to be connected and detected on to the Raspberry Pi.
+On the first boot you will be prompted to install the operating system and configure the wifi setting. Once the raspberry pi is done installing the operating system. The first thing is to enable I2C because by default it is not enable. I2C bus allows the devices like the sunlight sensor to be connected and detected on to the Raspberry Pi.
 To enable I2C: from the Start Menu -> Preferences -> Raspberry Pi configuration -> Interface set I2C to Enabled. 
 
 Next on the terminal type the following command to check that you have i2c-tools utility installed.
