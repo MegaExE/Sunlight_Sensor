@@ -100,7 +100,7 @@ During the Past 5 Weeks the school was on strike. This is what I worked on durin
 * I received the module that I was missing to complete the Student Sense Hat from the prototype lab on the week of October 30, 2017
 
 * I Connected the sunlight sensor to my raspberry pi 3  and Filmed the part assembly for my build video
-* I set up the code for the sunlight sensor to test. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Llght)
+* I set up the code for the sunlight sensor to test. It prints out Vis (visible light), IR (infrared light) and UV Index (UV-Light)
 * Output of testing the Sunlight Sensor:
 
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Testing%20the%20Sunlight%20Sensor.png" alt="Image of Sunlight Sensor and Grove Connector Interface" width="350" height="250">
