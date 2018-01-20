@@ -7,6 +7,8 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
+### Week 12 January 22, 2018
+* [Sunlight Sensor Build Instruction](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/README.md)
 
 
 ### Week 11 January 15, 2018
