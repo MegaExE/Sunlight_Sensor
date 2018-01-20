@@ -62,7 +62,7 @@ Below is the outcome after you connect the parts to the raspberry pi.
 ![Sunlight finish build](https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/documentation/Sunlight%20finish%20build.jpg)
 
 ### Soldering
-There was no soldering required with the sunlight sensor. The sunlight sensor is connected by using the Grove Cable to the connected interface on the raspberry pi.
+There was no soldering required with the sunlight sensor. The sunlight sensor is connected by using the Grove Cable to the connector interface on the raspberry pi.
 
 ### Power Up
 Before power up the Raspberry pi, check the micro SD card to see if it has the contents of NOOBS operation system installer which contains Raspbian. If not, you can download, unzip and copy the folder contents of [NOOBS](https://downloads.raspberrypi.org/NOOBS_latest) into the root directory of the micro SD card.
