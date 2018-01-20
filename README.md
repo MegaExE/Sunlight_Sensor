@@ -80,7 +80,7 @@ sudo apt-get install -y i2c-tools
 To check if the raspberry pi is detecting the sunlight sensor:
 Open the terminal and type the command 
 ```
-sudo i2cdetect -y 1.
+sudo i2cdetect -y 1
 ```
 
 If you see this, it means that the raspberry pi is detecting the sunlight sensor and you connected the sensor to the raspberry pi correctly.
