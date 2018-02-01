@@ -7,10 +7,11 @@
 3. [Bill of Materials/Budget](#bill-of-materialsbudget)
 4. [Time Commitment](#time-commitment)
 5. [Mechanical Assembly](#mechanical-assembly)
-6. [Power up](#power-up)
-7. [Unit Testing](#unit-testing)
-8. [Production Testing](#production-testing)
-9. [Reproducible?](#reproducible)
+6. [Soldering](#soldering)
+7. [Power up](#power-up)
+8. [Unit Testing](#unit-testing)
+9. [Production Testing](#production-testing)
+10. [Reproducible?](#reproducible)
 
 
 ### Introduction
