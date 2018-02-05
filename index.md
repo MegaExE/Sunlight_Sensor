@@ -18,7 +18,7 @@ title: Raphael Carlo Najera CENG 317 Blog
 * The name of the project our group is working on is called Solar Capstone. Will be using the Solar Panels to read data and store it in the database.
 
 ------------------
-Raphael Najera CENG 317 Sunlight Sensor Blog.
+# Raphael Najera CENG 317 Sunlight Sensor Blog.
 -------------
 ### Week 12 January 22, 2018
 * [Sunlight Sensor Build Instruction](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/README.md)
