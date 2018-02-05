@@ -4,6 +4,7 @@ description: Simple website with GitHub Pages
 layout: page
 title: Raphael Carlo Najera CENG 317 Blog
 ---
+
 #CENG 355 Solar Capstone Project Blog.
 
 ### Week 2 February 5, 2018
