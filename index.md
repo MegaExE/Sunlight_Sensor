@@ -7,6 +7,12 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 3 February 12, 2018
+* Submitted the [SRS (requirements specification)](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20%5BSRS%5D.pdf) 
+
+* We started creating the mobile application, database and web application. 
+* Raphael is working on the mobile application, Adrian is working on the database and Johnson is working on the web application.
+
 ### Week 2 February 5, 2018
 * Submitted the [Project Content](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/ProposalContent-Raphael%20Johnson%20Adrian.pdf) and [Project Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/ProjectProposal-Raphael%20Johnson%20Adrian.pdf)
 
