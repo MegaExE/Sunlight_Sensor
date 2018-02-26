@@ -8,7 +8,7 @@ title: Raphael Carlo Najera CENG 317 Blog
 # CENG 355 Solar Capstone Project Blog.
 
 ### Week 5 February 26, 2018
-* Submitted the Abstract, Introduction, and Declaration of authorship documents
+* Submitted the [Abstract, Introduction, and Declaration of authorship documents](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20%5BWeek%204%5D.pdf)
 * Additionally, we fixed our SRS and our technical report to match the OACETT requirements.
 
 ### Week 4 February 19, 2018
