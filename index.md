@@ -27,7 +27,8 @@ title: Raphael Carlo Najera CENG 317 Blog
 * Creating the SRS (requirements specification)  
 * We visited room L240 to have a better understanding of the school's Solar system. We observed that all PV panels were set up except PV3.
 * Updated our Placard to our current project
-*<img src="https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/images/solarPlacard.jpg?raw=true" alt="Image of Placard" width="350" height="350">
+
+<img src="https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/images/solarPlacard.jpg?raw=true" alt="Image of Placard" width="350" height="350">
 
 ### Week 1 January 29, 2018
 * Group: Raphael Najera, Johnson Liang, and Adrian Caprini
