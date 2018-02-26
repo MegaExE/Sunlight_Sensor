@@ -14,6 +14,8 @@ title: Raphael Carlo Najera CENG 317 Blog
 ### Week 4 February 19, 2018
 * During the week of Family Day we focused on learning Python to retrieve data from the corresponding IP address to their PV. As a result, we were successfully able to retrieve the power, total yield, and daily yield fields from PV1 and PV4. Below the following screen-shot displays the result of our code.
 
+<img src="https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/images/PV1n4.PNG?raw=true" alt="Image of PV1 and PV4" width="350" height="350">
+
 ### Week 3 February 12, 2018
 * Submitted the [SRS (requirements specification)](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20%5BSRS%5D.pdf) 
 * We started creating the mobile application, database, and web application. Furthermore, we have decided that the mobile app will be created using Android Studios, the database will be created using Firebase, and the web application will be created using NetBeans.
