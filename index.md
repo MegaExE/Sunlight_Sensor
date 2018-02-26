@@ -7,16 +7,22 @@ title: Raphael Carlo Najera CENG 317 Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 5 February 26, 2018
+* Submitted the Abstract, Introduction, and Declaration of authorship documents
+* Additionally, we fixed our SRS and our technical report to match the OACETT requirements.
+
+### Week 4 February 19, 2018
+* During the week of Family Day we focused on learning Python to retrieve data from the corresponding IP address to their PV. As a result, we were successfully able to retrieve the power, total yield, and daily yield fields from PV1 and PV4. Below the following screen-shot displays the result of our code.
+
 ### Week 3 February 12, 2018
 * Submitted the [SRS (requirements specification)](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20%5BSRS%5D.pdf) 
-
-* We started creating the mobile application, database and web application. 
+* We started creating the mobile application, database, and web application. Furthermore, we have decided that the mobile app will be created using Android Studios, the database will be created using Firebase, and the web application will be created using NetBeans.
 * Raphael is working on the mobile application, Adrian is working on the database and Johnson is working on the web application.
 
 ### Week 2 February 5, 2018
 * Submitted the [Project Content](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/ProposalContent-Raphael%20Johnson%20Adrian.pdf) and [Project Proposal](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/ProjectProposal-Raphael%20Johnson%20Adrian.pdf)
-
 * Creating the SRS (requirements specification)  
+* We visited room L240 to have a better understanding of the school's Solar system. We observed that all PV panels were set up except PV3.
 
 ### Week 1 January 29, 2018
 * Group: Raphael Najera, Johnson Liang, and Adrian Caprini
