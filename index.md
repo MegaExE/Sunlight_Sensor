@@ -11,6 +11,7 @@ title: Solar Capstone Blog
 * We continued to work on the python code and was able to retrieve data from PV2
 * We tested Firebase code to connect and push the data retrieved from all three solar panels. As a result, our current database stores data from the following fields: date (timestamp), power, daily and total energy yield.
 *  Below the following screen-shot displays the result of our code, including PV2.
+
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/Output%20Pv1-Pv2-Pv4.PNG" alt="Image of PV1 PV2 and PV4" width="250" height="250">
 
 * Screen-shots of our Firebase
