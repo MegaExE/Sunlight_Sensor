@@ -16,12 +16,15 @@ title: Solar Capstone Blog
 
 * Screen-shots of our Firebase
 * PV1
+
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/PV1.PNG" alt="Image of PV1 data" width="400" height="250">
 
 * PV2
+
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/PV2.PNG" alt="Image of PV2 data" width="400" height="250">
 
 * PV4
+
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/PV4.PNG" alt="Image of PV4 data" width="400" height="250">
 
 ### Week 5 February 26, 2018
