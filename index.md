@@ -13,6 +13,15 @@ title: Solar Capstone Blog
 *  Below the following screen-shot displays the result of our code, including PV2.
 <img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/Output%20Pv1-Pv2-Pv4.PNG" alt="Image of PV1 PV2 and PV4" width="250" height="250">
 
+* Screen-shots of our Firebase
+* PV1
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/Output%20Pv1-Pv2-Pv4.PNG" alt="Image of PV1 data" width="250" height="250">
+
+* PV2
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/Output%20Pv1-Pv2-Pv4.PNG" alt="Image of PV2 data" width="250" height="250">
+
+* PV4
+<img src="https://raw.githubusercontent.com/RaphaelNajera/Sunlight_Sensor/master/images/Output%20Pv1-Pv2-Pv4.PNG" alt="Image of PV4 data" width="250" height="250">
 
 ### Week 5 February 26, 2018
 * Submitted the [Abstract, Introduction, and Declaration of authorship documents](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20%5BWeek%204%5D.pdf)
