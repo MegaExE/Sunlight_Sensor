@@ -4,13 +4,13 @@ description: Simple website with GitHub Pages
 layout: page
 title: Solar Capstone Blog
 ---
-[Solar Capstone Web App](https://j-liang.github.io/solarcapstone_web/)
 
 # CENG 355 Solar Capstone Project Blog.
 
 ### Week 7 March 12, 2018
 * Submitted the [build instructions](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20-%20Build%20Instructions.pdf)
 * We were able to retrieve data in our applications with the data pushed on Firebase. Our mobile and web application now retrieves the latest query and displays it for user to observe.
+* [Solar Capstone Web App](https://j-liang.github.io/solarcapstone_web/)
 * Python script now pushes the epoch time to Firebase, which will be used later on to delete data entries (up to 30 days).
 * Starting to work on the status report B thats due next week
 * Updated our SRS with the feedback given
