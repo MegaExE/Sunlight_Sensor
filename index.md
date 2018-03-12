@@ -11,6 +11,7 @@ title: Solar Capstone Blog
 * submitted the build instructions
 * starting to work on the status report B thats due next week
 * updated our SRS with the feedback given
+* combined the build instructions and status report A into our final technical report
 * added the epoch time field for the database
 
 ### Week 6 March 5, 2018
