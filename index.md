@@ -4,6 +4,7 @@ description: Simple website with GitHub Pages
 layout: page
 title: Solar Capstone Blog
 ---
+[Solar Capstone Web App](https://j-liang.github.io/solarcapstone_web/)
 
 # CENG 355 Solar Capstone Project Blog.
 
