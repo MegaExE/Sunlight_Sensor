@@ -8,7 +8,7 @@ title: Solar Capstone Blog
 # CENG 355 Solar Capstone Project Blog.
 
 ### Week 7 March 12, 2018
-* Submitted the build instructions 
+* Submitted the [build instructions](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20-%20Build%20Instructions.pdf)
 * We were able to retrieve data in our applications with the data pushed on Firebase. Our mobile and web application now retrieves the latest query and displays it for user to observe.
 * Python script now pushes the epoch time to Firebase, which will be used later on to delete data entries (up to 30 days).
 * Starting to work on the status report B thats due next week
