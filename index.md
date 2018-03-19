@@ -7,6 +7,11 @@ title: Solar Capstone Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 8 March 19, 2018
+* Submitted the [Status Report B](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Week%207%20Status%20Report%20B%20-%20Solar%20Capstone%20Project.pdf)
+* Added the history/log to our mobile and web application
+* Updated the [Technical Report](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Final%20Technical%20Report/Solar%20Capstone%20Technical%20Report%20Revised%20V3.docx) to include the Status Report B
+
 ### Week 7 March 12, 2018
 * Submitted the [build instructions](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20-%20Build%20Instructions.pdf)
 * We were able to retrieve data in our applications with the data pushed on Firebase. Our mobile and web application now retrieves the latest query and displays it for user to observe.
