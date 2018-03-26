@@ -7,6 +7,12 @@ title: Solar Capstone Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 9 March, 26 2018
+* Submitted the technical report checklist and Conclusion. From the submitted document it appears that we are on track.
+* Since last week we have added the history log for PV1, PV2, and PV4. The logs will display the last 11 entries from Firebase of each table.
+* We also added code into the python script which we expect to delete all entries from the table every 30 days.
+
+
 ### Week 8 March 19, 2018
 * Submitted the [Status Report B](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Week%207%20Status%20Report%20B%20-%20Solar%20Capstone%20Project.pdf)
 * Added the history/log to our mobile and web application
