@@ -11,7 +11,7 @@ title: Solar Capstone Blog
 * Submitted the [technical report checklist](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR_CheckList_CENG355%5BWeek%208%5D.pdf) and [Conclusion](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR%20%20-%20Conclusions%20%5BWeek%208%5D.pdf). From the submitted document it appears that we are on track.
 * Since last week we have added the history log for PV1, PV2, and PV4. The logs will display the last 11 entries from Firebase of each table.
 * We also added code into the python script which we expect to delete all entries from the table every 30 days.
-* Updated the [Technical Report](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Final%20Technical%20Report/Solar%20Capstone%20Technical%20Report%20Revised%20V4.docx) to include the Conclustion
+* Updated the [Technical Report](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Final%20Technical%20Report/Solar%20Capstone%20Technical%20Report%20Revised%20V4.docx) to include the Conclusion
 
 
 
