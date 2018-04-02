@@ -10,7 +10,7 @@ title: Solar Capstone Blog
 ### Week 10 April 2, 2018
 * Since last week we have added a image to the main screen, a splash screen and an about page to the mobile application.
 
-### Week 9 March, 26, 2018
+### Week 9 March 26, 2018
 * Submitted the [technical report checklist](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR_CheckList_CENG355%5BWeek%208%5D.pdf) and [Conclusion](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR%20%20-%20Conclusions%20%5BWeek%208%5D.pdf). From the submitted document it appears that we are on track.
 * Since last week we have added the history log for PV1, PV2, and PV4. The logs will display the last 11 entries from Firebase of each table.
 * We also added code into the python script which we expect to delete all entries from the table every 30 days.
