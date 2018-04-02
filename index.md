@@ -9,6 +9,8 @@ title: Solar Capstone Blog
 
 ### Week 10 April 2, 2018
 * Since last week we have added a image to the main screen, a splash screen and an about page to the mobile application.
+* We also added a python script to get and retrieve the data from PV3
+* Submitted the 
 
 ### Week 9 March 26, 2018
 * Submitted the [technical report checklist](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR_CheckList_CENG355%5BWeek%208%5D.pdf) and [Conclusion](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/TR%20%20-%20Conclusions%20%5BWeek%208%5D.pdf). From the submitted document it appears that we are on track.
