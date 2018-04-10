@@ -7,6 +7,9 @@ title: Solar Capstone Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 11 April 9, 2018
+* Today we demonstration our work to Austin
+
 ### Week 10 April 2, 2018
 * Since last week we have added a image to the main screen, a splash screen and an about page to the mobile application.
 * In the python script we added the code to push the data from PV3 to our firebase
