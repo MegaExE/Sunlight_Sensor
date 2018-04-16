@@ -7,6 +7,10 @@ title: Solar Capstone Blog
 
 # CENG 355 Solar Capstone Project Blog.
 
+### Week 12 April 16, 2018
+* [PowerPoint Presentation](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20Project%20Presentation.pptx)
+
+
 ### Week 11 April 9, 2018
 * Today we demonstrated our work to Austin
 
