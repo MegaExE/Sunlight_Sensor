@@ -240,7 +240,7 @@ def repeatEveryHourly():
 		#Calls to push the data to the firebase
 		SendtoFirebasePV2( firebase.database(), date, epoch, PV2_power, PV2_daily, PV2_total)
 	except urllib.error.URLError:
-		print("Solar Panel PV1 is offline")
+		print("Solar Panel PV2 is offline")
 		SendtoFirebasePV2( firebase.database(), date, epoch, "0", "0", "0")
 		
 	try:
