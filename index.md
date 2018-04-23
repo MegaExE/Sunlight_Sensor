@@ -9,6 +9,9 @@ title: Solar Capstone Blog
 
 ## [Solar Capstone Web App](https://j-liang.github.io/solarcapstone_web/)
 
+### Week 17 April 23, 2018
+* [Technical Report](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Final%20Technical%20Report/Solar%20Capstone%20Technical%20Report%20Final%20Copy.docx)
+
 ### Week 12 April 16, 2018
 * [PowerPoint Presentation](https://github.com/RaphaelNajera/Sunlight_Sensor/blob/master/documentation/CENG355%20Solar%20Capstone/Solar%20Capstone%20Project%20Presentation.pptx)
 
