@@ -1,5 +1,4 @@
-#Retrieving from PV1, PV2, PV4
-#Working on retrieving from PV3
+#Retrieving from PV1, PV2, PV3, PV4
 #Solar Capstone
 #Johnson, Raphael & Adrian
 from bs4 import BeautifulSoup
